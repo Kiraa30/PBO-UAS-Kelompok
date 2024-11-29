@@ -18,7 +18,8 @@ Fitur-Fitur Admin
 2. Masuk ke Menu Halaman Admin
 3. Melengkapi pesanan Customer (Metode Cucian, dan Berat Laundry)
 4. Menghitung Total Harga laundry customer
-5. Mengtotal nominal pembayaran
-6. Menyelesaikan transaksi laundry
+5. Mentotal nominal pembayaran
+6. Menghitung kembalian nominal uang
+7. Menyelesaikan transaksi laundry
 
 Aplikasi yang kami gunakan yaitu Apache NetBeans IDE 22
