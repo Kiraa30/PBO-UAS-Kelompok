@@ -11,7 +11,7 @@ Project laundry ini membutuhkan database "tdlaundry", diharapkan import "tdlaund
 Fitur-Fitur Customer
 1. Masuk Ke Menu Halaman Customer
 2. Memesan laundry
-3. edit pesanan
+3. Edit pesanan
 
 Fitur-Fitur Admin
 1. Login dengan Username dan Passwword
